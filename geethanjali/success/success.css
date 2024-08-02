@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: aqua;
+    position: fixed;
+    width: 100%;
+    height: 8%;
+}
+.navbar h1{
+    padding-bottom: 20px;
+}
+.navbar button{
+    width: 70px;
+    height: 40px;
+    position:fixed;
+    top: 10px;
+    left: 1px;
+    color: white;
+    background-color: aqua;
+    border-style: none;
+}
+img{
+    top: 170px;
+    margin-left: 20px;
+    border-radius: 50%;
+}
+h3{
+    position: relative;
+    top: 200px;
+}
+h4{
+    position: relative;
+    top: 220px;
+    padding-right: 130px;
+}
+i{
+    position: relative;
+    top: 135px;
+    padding-left: 200px;
+}
+.my-button{
+    position: relative;
+    top: 300px;
+    margin-left: 680px;
+    width: 70px;
+    height: 30px;
+    color: white;
+    background-color: green;
+}
+.but{
+    position: relative;
+    top: 300px;
+    margin-left: 60px;
+    width: 70px;
+    height: 30px;
+    color: white;
+    background-color: green;
+}
+.home{
+    position: relative;
+    margin-top: 310px;
+    margin-left: 760px;
+}
+.home{
+    background-color: darkturquoise;
+    color: white;
+}

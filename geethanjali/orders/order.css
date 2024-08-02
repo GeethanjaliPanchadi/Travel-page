@@ -1,0 +1,80 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+img{
+    border-radius: 20%;
+}
+.navbar button{
+    background-color: black;
+    color: white;
+    border-radius: 25%;
+    height: 40px;
+    width: 50px;
+    position: fixed;
+    top: 5px;
+}
+.navbar h1{
+    position: fixed;
+    top: 5px;
+    right: 47%;
+}
+
+.navbar{
+    background-color: yellow;
+    position: fixed;
+    height: 50px;
+    width: 100%;
+}
+
+.profile-logo{
+    position: fixed;
+    top: 5px;
+    right: 10px;
+    border-radius: 75%;
+}
+.profile-logo img{
+    width: 50px;
+    height: 30px;
+    border-radius: 75%;
+    background-color:antiquewhite;
+}
+.picture img{
+    border-radius: 25%;
+    position: fixed;
+    top: 25%;
+    left: 5%;
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+.text{
+    position: fixed;
+    top: 30%;
+    left: 30%;
+}
+.picture{
+    flex: 1;
+}
+.text i{
+    color: purple;
+    padding-left: 800px;
+}
+.text h4{
+    padding-left: 800px;
+    color: green;
+}
+.text del{
+    padding-left: 800px;
+    color: red;
+}
+.yash {
+    /* background-color: greenyellow; */
+    margin-left: 800px;
+    margin-top: 20px;
+    box-sizing: border-box;
+    border-width: 2%;
+    border-color: greenyellow;
+}
